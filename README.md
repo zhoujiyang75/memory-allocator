@@ -6,7 +6,8 @@
 
 ## 整体架构
 
-<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/e000bbab-b589-47d9-8880-d0376a286eb7" />
+<img width="1125" height="635" alt="image" src="https://github.com/user-attachments/assets/8d2f6a7f-02f7-47cb-83a5-ae12258b6f22" />
+
 
 
 ## 核心参数
