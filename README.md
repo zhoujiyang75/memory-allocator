@@ -1,6 +1,6 @@
-# 高并发内存池（TCMalloc Style Memory Pool）
+# 高性能分级缓存内存分配器（TCMalloc Style Memory Allocator）
 
-参考 Google TCMalloc 设计思想实现的多线程内存池，解决多线程场景下原生
+参考 Google TCMalloc 设计思想实现的多线程内存分配器，解决多线程场景下原生
 `malloc/free` 的锁竞争与系统调用开销问题，同时通过分层缓存与 span 合并
 控制内存碎片。
 
